@@ -1,6 +1,6 @@
 ## StackEdit Dockerfile
 
-This repository contains **Dockerfile** of [StackEdit](https://github.com/benweet/stackedit) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/ghost/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
+This repository contains **Dockerfile** of [StackEdit](https://github.com/benweet/stackedit) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/kmb32123/stackedit/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
 ### Base Docker Image
 
